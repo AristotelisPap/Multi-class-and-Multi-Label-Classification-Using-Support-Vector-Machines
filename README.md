@@ -9,4 +9,4 @@ In order to deal with this problem, we used the Binary Relevance technique and w
 
 We also used 10-fold CV in order to tune the hyperparameters of these algorithms.
 
-In the last part of the project, instead of using the Binary Relevance, we applied the Classifiers Chain method combined with a SVM with Gaussian Kernel.
+In the last part of the project, instead of using the Binary Relevance, we applied the Classifiers Chain method combined with a SVM with Gaussian Kernel which showed an additional improvement to the test set accuracy compared to the Binary Relevance method.
